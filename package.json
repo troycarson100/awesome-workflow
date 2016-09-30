@@ -1,0 +1,19 @@
+{
+  "name": "awesome-workflow",
+  "version": "1.0.0",
+  "description": "![kitty image](https://lh4.ggpht.com/M1XTibfCgpi5pgjSDb7kXDh21N8fpn-8evzQVAX-qGFhSyArDmSuCAv1pjVp4jbAt_g=h900) Photo taken by Kevin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troycarson100/awesome-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troycarson100/awesome-workflow/issues"
+  },
+  "homepage": "https://github.com/troycarson100/awesome-workflow#readme"
+}
